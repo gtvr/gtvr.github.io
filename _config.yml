@@ -2,9 +2,8 @@ defaults:
     -
         scope:
             path: ""
-			type: "site"
+			type: "pages"
         values:
 			title: "Georgia Tech Virtual Reality Club"
 			title-min: "GT VR Club"
 			motto: "Blurring the virtual and physical"
-            layout: "default"
