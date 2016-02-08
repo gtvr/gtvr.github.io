@@ -1,0 +1,9 @@
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+			title: "Georgia Tech Virtual Reality Club"
+			title-min: "GT VR Club"
+			motto: ""
+            layout: "default"
