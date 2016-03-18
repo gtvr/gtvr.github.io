@@ -1,3 +1,22 @@
 ---
 layout: default
 ---
+<div class="tabs">
+  <div class="tab">
+    <input type="radio" id="tab-1" name="tab-group-1">
+    <label for="tab-1">Wiki</label>
+    
+    <div class="content">
+      {% include columns/col_wiki.html %}
+    </div> 
+  </div>
+  
+  <div class="tab">
+    <input type="radio" id="tab-2" name="tab-group-1">
+    <label for="tab-2">About</label>
+    
+    <div class="content">
+      {% include columns/col_about.html %}
+    </div> 
+  </div>
+</div>
