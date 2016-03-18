@@ -1,0 +1,7 @@
+**/todo
+_site
+
+**/*~
+**/#*
+.jekyll-metadata
+.sass-cache

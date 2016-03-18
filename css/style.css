@@ -1,0 +1,10 @@
+.wrapper {
+    max-width: 720px;
+}
+
+hr {
+    background: #f87431;
+    border: 0;
+    height: 4px;
+    width:  125%;
+}
