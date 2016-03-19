@@ -5,12 +5,10 @@ body {
 
 header .col-left {
     float: left;
-    width: 50%
 }
 
 header .col-right {
     float: right;
-    width: 50%
 }
 
 footer {
