@@ -24,23 +24,14 @@ footer {
 }
 
 header img {
-    float: left;
-}
-
-h1 {
-    position: relative;
-    margin: 0;
-}
-
-h2 {
-    margin: 0;
+    float: center;
 }
 
 hr {
     background: #606d66;
     border: 0;
     height: 3px;
-    width:  75%;
+    width:  100%;
 }
 
 /* Tabbbed divs */
@@ -59,7 +50,8 @@ hr {
   border: 1px solid #ccc; 
   margin-left: -1px; 
   position: relative;
-  left: 1px; 
+  left: 1px;
+  width: 100%;
 }
 .tab [type=radio] {
   display: none;   
