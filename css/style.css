@@ -25,6 +25,10 @@ header img {
     float: center;
 }
 
+header .icon {
+    width: 16px;
+}
+
 hr {
     background: #606d66;
     border: 0;
