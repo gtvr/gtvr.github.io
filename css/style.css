@@ -6,7 +6,7 @@ body {
 hr {
     background: #606d66;
     border: 0;
-    height: 3px;
+    height: 2px;
     width:  100%;
 }
 
@@ -23,7 +23,6 @@ hr {
 
 header .col-left {
     float: left;
-    align: center;
 }
 
 header img {
@@ -34,7 +33,6 @@ header img {
 
 header .col-right {
     float: right;
-    align: right;
 }
 
 header .col-right h3 {
