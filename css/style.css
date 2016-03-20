@@ -31,11 +31,15 @@ header .col-right {
     align: right;
 }
 
-header .col-right h3 {
+header.col-right .bar {
+    border-bottom: 3px #606d66;
+}
+
+header .col-right .bar h3 {
     float: left;
 }
 
-header .col-right .social {
+header .col-right .bar .social {
     float: right;
 }
 
