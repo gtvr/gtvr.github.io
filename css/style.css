@@ -3,6 +3,22 @@ body {
     color: #606d66;
 }
 
+a:link {
+    color: #6bc8c6;
+}
+
+a:visited {
+    color: #a57abe;
+}
+
+a:hover {
+    color: #32a69b;
+}
+
+a:active {
+    color: #c96b67;
+}
+
 hr {
     background: #606d66;
     border: 0;
