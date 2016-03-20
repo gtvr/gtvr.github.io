@@ -13,7 +13,7 @@ hr {
 .wrapper {
     margin: auto;
     max-width: 960px;
-    padding: 10px
+    padding: 10px;
 }
 
 .icon svg {
@@ -43,10 +43,6 @@ header .col-right h3 {
 
 header .col-right .social {
     float: right;
-}
-
-header hr {
-    position: relative;
 }
 
 footer {
