@@ -17,11 +17,14 @@ hr {
 
 header .col-left {
     float: left;
+    width: 360px;
 }
 
 header .col-right {
-    float: right;
+    float: left;
     width: 100%;
+    align: right;
+    overflow: hidden;
 }
 
 footer {
