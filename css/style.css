@@ -20,13 +20,12 @@ header .col-left {
 }
 
 header .col-right {
-    width: auto;
+    float: right;
     align: right;
-    overflow: hidden;
 }
 
 header .col-right social {
-    alight: right;
+    align: right;
 }
 
 footer {
