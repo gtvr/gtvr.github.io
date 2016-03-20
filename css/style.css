@@ -50,14 +50,6 @@ header .icon {
     width: 16px;
 }
 
-header h1 {
-    float: left;
-}
-
-header h3 {
-    float: right;
-}
-
 /* Tabbbed divs */
 .tabs {
   position: relative;   
