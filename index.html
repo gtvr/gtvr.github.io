@@ -1,21 +1,21 @@
 ---
 layout: default
 ---
-<div class="tabs">
-    <div class="tab">
-    <input type="radio" id="tab-2" name="tab-group-1" checked="checked">
-    <label for="tab-2">About</label>
-    <div class="content">
+<ul class="tabs">
+  <li>
+    <input type="radio" name="tabs" id="tab1" checked />
+    <label for="tab1">About</label>
+    <div id="tab-content1" class="tab-content">
       {% capture md %}{% include tabs/about.md %}{% endcapture %}
       {{ md | markdownify }}
-    </div> 
-  </div>
-  <div class="tab">
-    <input type="radio" id="tab-1" name="tab-group-1">
-    <label for="tab-1">Wiki</label>
-    <div class="content">
+    </div>
+  </li>
+  <li>
+    <input type="radio" name="tabs" id="tab2" />
+    <label for="tab2">Wiki</label>
+    <div id="tab-content2" class="tab-content">
       {% capture md %}{% include tabs/wiki.md %}{% endcapture %}
       {{ md | markdownify }}
-    </div> 
-  </div>
-</div>
+    </div>
+  </li>
+</ul>

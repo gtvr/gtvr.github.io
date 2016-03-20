@@ -64,39 +64,64 @@ footer {
 }
 
 /* Tabbbed divs */
+/*#eee*/
+
+* {
+  margin: 0;
+  padding: 0; 
+  @include box-sizing(border-box);
+}
 .tabs {
-  position: relative;   
-  min-height: 200px;
-  clear: both;
-  margin: 25px 0;
-}
-.tab {
-  float: left;
-}
-.tab label {
-  background: #eee; 
-  padding: 10px; 
-  margin-left: -1px; 
+  width: 650px;  
+  float: none;
+  list-style: none;
   position: relative;
-  left: 1px;
-}
-.tab [type=radio] {
-  display: none;   
-}
-.content {
-  position: absolute;
-  top: 28px;
-  left: 0;
-  background: white;
-  right: 0;
-  bottom: 0;
-  padding: 20px;
-}
-[type=radio]:checked ~ label {
-  background: white;
-  border-bottom: 1px solid white;
-  z-index: 2;
-}
-[type=radio]:checked ~ label ~ .content {
-  z-index: 1;
+  margin: 80px 0 0 10px;
+  text-align: left;
+  li {
+    float: left;
+    display: block;
+  }
+  input[type="radio"] {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  label {
+    display: block;
+    padding: 14px 21px;
+    border-radius: 2px 2px 0 0;
+    font-size: 20px;
+    font-weight: normal;
+    text-transform: uppercase;
+    cursor: pointer;
+    position: relative;
+    top: 4px; 
+    @include transition(all 0.2s ease-in-out);
+    &:hover {
+      background: darken($tabs-base-color, 10);
+    }
+  }
+  .tab-content{
+    z-index: 2;
+    display: none; 
+    overflow: hidden;
+    width: 100%;
+    font-size: 17px;
+    line-height: 25px;
+    padding: 25px;  
+    position: absolute;
+    top: 53px;
+    left: 0; 
+    background: darken($tabs-base-color, 15);
+  }
+  //The Magic
+  [id^="tab"]:checked + label { 
+    top: 0;
+    padding-top: 17px; 
+    background: darken($tabs-base-color, 15); 
+  }
+  [id^="tab"]:checked ~ [id^="tab-content"] {
+    display: block;
+  }
 }
