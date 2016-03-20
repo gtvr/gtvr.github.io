@@ -4,6 +4,7 @@ body {
 }
 
 hr {
+    position: absolute;
     background: #606d66;
     border: 0;
     height: 3px;
@@ -35,7 +36,7 @@ header .col-right h3 {
     float: left;
 }
 
-header .col-right .social {
+header .col-right1 .social {
     float: right;
 }
 
