@@ -25,7 +25,7 @@ header .col-right {
     align: right;
 }
 
-header .col-right social {
+header .col-right .social {
     align: right;
 }
 
@@ -66,7 +66,7 @@ header h3 {
   margin: 25px 0;
 }
 .tab {
-  float: center;
+  float: left;
 }
 .tab label {
   background: #eee; 
@@ -75,7 +75,6 @@ header h3 {
   margin-left: -1px; 
   position: relative;
   left: 1px;
-  width: 240px;
 }
 .tab [type=radio] {
   display: none;   
