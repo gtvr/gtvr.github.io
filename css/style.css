@@ -31,7 +31,7 @@ header .col-right {
     align: right;
 }
 
-header.col-right .bar {
+header .col-right .bar {
     border-bottom: 3px #606d66;
 }
 
