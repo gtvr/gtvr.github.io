@@ -11,8 +11,12 @@ hr {
 }
 
 .icon svg {
-    width: 16px;
-    height: 16px;
+    width: 32px;
+    height: auto;
+}
+
+header {
+    bottom-padding: 10px;
 }
 
 header .col-left {
@@ -40,14 +44,9 @@ footer {
 }
 
 header img {
-    float: center;
     max-width: 360px;
     width: 100%;
     height: auto;
-}
-
-header .icon {
-    width: 16px;
 }
 
 /* Tabbbed divs */
@@ -79,7 +78,6 @@ header .icon {
   right: 0;
   bottom: 0;
   padding: 20px;
-  border: 1px solid #ccc; 
 }
 [type=radio]:checked ~ label {
   background: white;
