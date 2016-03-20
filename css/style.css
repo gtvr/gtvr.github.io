@@ -15,7 +15,7 @@ hr {
     height: auto;
 }
 
-header {
+header hr {
     bottom-padding: 10px;
 }
 
@@ -62,7 +62,6 @@ header img {
 .tab label {
   background: #eee; 
   padding: 10px; 
-  border: 1px solid #ccc; 
   margin-left: -1px; 
   position: relative;
   left: 1px;
