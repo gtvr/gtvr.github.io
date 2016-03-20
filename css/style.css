@@ -3,6 +3,18 @@ body {
     color: #606d66;
 }
 
+hr {
+    background: #606d66;
+    border: 0;
+    height: 3px;
+    width:  100%;
+}
+
+.icon svg {
+    width: 16px;
+    height: 16px;
+}
+
 header .col-left {
     float: left;
 }
@@ -28,13 +40,6 @@ header img {
 
 header .icon {
     width: 16px;
-}
-
-hr {
-    background: #606d66;
-    border: 0;
-    height: 3px;
-    width:  100%;
 }
 
 /* Tabbbed divs */
