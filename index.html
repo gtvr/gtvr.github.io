@@ -4,7 +4,7 @@ layout: default
 <div class="tabs">
   <input type="radio" name="tabs" id="tab1">
   <label for="tab1">
-    <span>Showcase</span>
+    <span>Show</span>
   </label>
   
   <input type="radio" name="tabs" id="tab2">
@@ -23,7 +23,7 @@ layout: default
   </label>
   
   <div id="tab-content1" class="tab-content">
-    {% capture md %}{% include tabs/showcase.md %}{% endcapture %}
+    {% capture md %}{% include tabs/show.md %}{% endcapture %}
     {{ md | markdownify }}
   </div>
   

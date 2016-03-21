@@ -2,7 +2,7 @@
 
 [Our Constitution.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-All other club materials are located [here](https://github.com/gtvr/materials);
+All other club materials are located [here](https://github.com/gtvr/materials).
 
 ### Meeting Times
 
