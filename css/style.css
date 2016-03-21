@@ -26,6 +26,11 @@ hr {
     width:  100%;
 }
 
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
 .wrapper {
     margin: auto;
     max-width: 960px;
