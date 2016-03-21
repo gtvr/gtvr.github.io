@@ -1,12 +1,12 @@
 ### Materials
 
-[Our Constitution.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Our Constitution.](docs/constitution.pdf)
 
 All other club materials are located [here](https://github.com/gtvr/materials).
 
 ### Meeting Times
 
-Every other Wednesday at 6:30pm-8:00pm.  Location pending.
+Usually Wednesday at 6:30pm-8:00pm at the Glenn-Towers Connector.
 
 ### Mailing List
 
