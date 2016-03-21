@@ -19,10 +19,7 @@ Reality ++ (Coming Soon!)
 
 ### Who are We?
 
-Member | Position | Contact
+Officer | Position | Contact
 -|:-:|-
 Muhammad Ali Rizvi | Leader | <m.rizvi@gatech.edu>
-Chris Payne | |
-Derrick Bailey | |
-Arsene Lakpa | |
-Jordan Eggleston | Tamago |
+
