@@ -42,14 +42,29 @@ header .col-left {
     float: left;
 }
 
-header img {
+header .col-right {
+    float: right;
+}
+
+@media screen and (max-width: 910px) {
+    header .col-left {
+        width: 100%;
+    }
+    header .col-left img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+   header .col-right {
+    float: left;
+    width: 100%;
+  }
+}
+
+header .col-left img {
     max-width: 360px;
     width: 100%;
     height: auto;
-}
-
-header .col-right {
-    float: right;
 }
 
 header .col-right h3 {
