@@ -1,6 +1,6 @@
 ## Hello!
 
-We are a currently unofficial student organization at Georgia Tech dedicated to the exploration and proliferization of virtual reality technology. We want to spark ideas and have enjoy doing it.
+We are a currently unofficial student organization at Georgia Tech dedicated to the exploration and proliferization of virtual reality technology. We want to spark ideas and enjoy doing it.
 
 * We:
     * Discuss VR and related (experimental programming) topics
