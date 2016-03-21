@@ -9,17 +9,7 @@ We are a currently unofficial student organization at Georgia Tech dedicated to 
     * Share equipment (We [will] have a Vive!)
     * Are a Unity shop
 
-### Meeting Times
-
-Coming Soon!
-
 ### What is Virtual Reality?
 
 Reality ++ (Coming Soon!)
-
-### Who are We?
-
-Officer | Position | Contact
--|:-:|-
-Muhammad Ali Rizvi | Leader | <m.rizvi@gatech.edu>
 
