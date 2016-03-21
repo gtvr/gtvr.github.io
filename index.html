@@ -23,10 +23,10 @@ layout: default
 </div>
 --->
 
-
+<br>
 <div class="tabs">
   <!-- Radio button and lable for #tab-content1 -->
-  <input type="radio" name="tabs" id="tab1" checked >
+  <input type="radio" name="tabs" id="tab1" checked>
   <label for="tab1">
     <span>About</span>
   </label>
@@ -40,10 +40,10 @@ layout: default
   <div id="tab-content1" class="tab-content">
     {% capture md %}{% include tabs/about.md %}{% endcapture %}
     {{ md | markdownify }}
-  </div> <!-- #tab-content1 -->
+  </div>
   
   <div id="tab-content2" class="tab-content">
     {% capture md %}{% include tabs/wiki.md %}{% endcapture %}
     {{ md | markdownify }}
-  </div> <!-- #tab-content2 -->
+  </div>
 </div>

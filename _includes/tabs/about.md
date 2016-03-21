@@ -22,7 +22,7 @@ Reality ++ (Coming Soon!)
 Member | Position | Contact
 -|:-:|-
 Muhammad Ali Rizvi | Leader | <m.rizvi@gatech.edu>
-Chris Payne
-Derrick Bailey
-Arsene Lakpa
-Jordan Eggleston | Tamago
+Chris Payne | |
+Derrick Bailey | |
+Arsene Lakpa | |
+Jordan Eggleston | Tamago |
