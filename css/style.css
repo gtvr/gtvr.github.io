@@ -53,8 +53,11 @@ header .col-right {
 
 @media screen and (max-width: 910px) {
     .icon svg {
-	width: 20px;
+	width: 16px;
 	height: auto;
+    }
+    .social {
+	margin-top: 20px;
     }
     header .col-left {
         width: 100%;
@@ -79,14 +82,16 @@ header .col-left img {
 
 header .col-right h3 {
     float: left;
+    margin-bottom: 10px;
 }
 
-header .col-right .social {
+.social {
     float: right;
+    margin-top: 8px;
 }
 
-header .col-right .social span {
-    display: inline-block;
+.social a {
+    text-decoration: none;
 }
 
 footer {
@@ -94,7 +99,7 @@ footer {
 }
 
 /* Tabbing Scheme */
-.tabs {
+tabs {
     max-width: 100%;
 }
 
