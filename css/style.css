@@ -51,6 +51,19 @@ header .col-right {
     float: right;
 }
 
+.social {
+    float: right;
+    margin-top: 8px;
+}
+
+.social a {
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+}
+
 @media screen and (max-width: 910px) {
     .icon svg {
 	width: 16px;
@@ -83,19 +96,6 @@ header .col-left img {
 header .col-right h3 {
     float: left;
     margin-bottom: 10px;
-}
-
-.social {
-    float: right;
-    margin-top: 8px;
-}
-
-.social a {
-    text-decoration: none;
-}
-
-footer {
-    text-align: center;
 }
 
 /* Tabbing Scheme */
