@@ -53,7 +53,7 @@ header .col-right {
 
 @media screen and (max-width: 910px) {
     .icon svg {
-	width: 16px;
+	width: 20px;
 	height: auto;
     }
     header .col-left {
@@ -83,6 +83,10 @@ header .col-right h3 {
 
 header .col-right .social {
     float: right;
+}
+
+header .col-right .social span {
+    display: inline-block;
 }
 
 footer {
