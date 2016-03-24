@@ -65,6 +65,9 @@ footer {
 }
 
 @media screen and (max-width: 910px) {
+    header h1 {
+        margin-bottom: -10px;
+    }
     .icon svg {
 	width: 16px;
 	height: auto;
