@@ -1,2 +1,2 @@
 # gtvr.club
-GT VR Club Website
+GTVR Club Website
