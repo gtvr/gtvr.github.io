@@ -6,7 +6,7 @@ All other club materials are located [here](https://github.com/gtvr/materials).
 
 ### Meeting Times
 
-Usually Wednesday from 6:30pm in the Glenn-Towers Connector.
+Tuesdays from 7:30pm in the Glenn-Towers Connector.
 
 ### Mailing List
 
