@@ -1,6 +1,6 @@
 ### Materials
 
-[Our Constitution.](docs/constitution.pdf)
+[Our Constitution.](https://github.com/gtvr/materials/spring-2016/raw/master/docs/constitution.pdf)
 
 All other club materials are located [here](https://github.com/gtvr/materials).
 
@@ -14,9 +14,10 @@ Tuesdays from 7:30pm in the Glenn-Towers Connector.
 
 ### Who Are We?
 
-Officer | Position | Contact
+Officer | Position
 -|:-:|-
-Muhammad Rizvi | President | <m.rizvi@gatech.edu>
-| Vice President |
-| Public Relations Officer |
-| Treasurer|
+Muhammad Rizvi | President
+| Vice President
+| Secretary
+| Treasurer
+| Public Relations

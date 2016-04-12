@@ -2,43 +2,42 @@
 layout: default
 ---
 <div class="tabs">
-  <input type="radio" name="tabs" id="tab1">
+  <input type="radio" name="tabs" id="tab1" checked>
   <label for="tab1">
-    <span>Show</span>
+    <span>About</span>
   </label>
   
   <input type="radio" name="tabs" id="tab2">
   <label for="tab2">
-    <span>Wiki</span>
+    <span>Show</span>
   </label>
 
-  <input type="radio" name="tabs" id="tab3" checked>
+  <input type="radio" name="tabs" id="tab3">
   <label for="tab3">
-    <span>About</span>
+    <span>Club</span>
   </label>
 
     <input type="radio" name="tabs" id="tab4">
   <label for="tab4">
-    <span>Club</span>
+    <span>Q&amp;A</span>
   </label>
   
   <div id="tab-content1" class="tab-content">
-    {% capture md %}{% include tabs/show.md %}{% endcapture %}
+    {% capture md %}{% include tabs/about.md %}{% endcapture %}
     {{ md | markdownify }}
   </div>
   
   <div id="tab-content2" class="tab-content">
-    {% capture md %}{% include tabs/wiki.md %}{% endcapture %}
+    {% capture md %}{% include tabs/show.md %}{% endcapture %}
     {{ md | markdownify }}
   </div>
 
   <div id="tab-content3" class="tab-content">
-    {% capture md %}{% include tabs/about.md %}{% endcapture %}
+    {% capture md %}{% include tabs/club.md %}{% endcapture %}
     {{ md | markdownify }}
   </div>
 
   <div id="tab-content4" class="tab-content">
-    {% capture md %}{% include tabs/club.md %}{% endcapture %}
-    {{ md | markdownify }}
+    <i>Coming Soon</i>
   </div>
 </div>
