@@ -9,16 +9,21 @@ layout: default
   
   <input type="radio" name="tabs" id="tab2">
   <label for="tab2">
-    <span>Show</span>
+    <span>Showcase</span>
   </label>
 
   <input type="radio" name="tabs" id="tab3">
   <label for="tab3">
-    <span>Club</span>
+    <span>Meetings</span>
   </label>
 
-    <input type="radio" name="tabs" id="tab4">
+  <input type="radio" name="tabs" id="tab4">
   <label for="tab4">
+    <span>Wiki</span>
+  </label>
+  
+    <input type="radio" name="tabs" id="tab5">
+  <label for="tab5">
     <span>Q&amp;A</span>
   </label>
   
@@ -28,7 +33,7 @@ layout: default
   </div>
   
   <div id="tab-content2" class="tab-content">
-    {% capture md %}{% include tabs/show.md %}{% endcapture %}
+    {% capture md %}{% include tabs/showcase.md %}{% endcapture %}
     {{ md | markdownify }}
   </div>
 
@@ -38,6 +43,11 @@ layout: default
   </div>
 
   <div id="tab-content4" class="tab-content">
-    <i>Coming Soon</i>
+    {% capture md %}{% include tabs/wiki.md %}{% endcapture %}
+    {{ md | markdownify }}
+  </div>
+  
+  <div id="tab-content5" class="tab-content">
+    <h1><i>Coming Soon</i></h1>
   </div>
 </div>
