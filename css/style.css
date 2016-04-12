@@ -64,7 +64,7 @@ footer {
     text-align: center;
 }
 
-@media screen and (max-width: 910px) {
+@media screen and (max-width: 1323px) {
     header h1 {
         margin-bottom: -10px;
     }
@@ -119,7 +119,7 @@ tabs {
 .tabs label {
     display: block;
     float: left;
-    width: 25%;
+    width: 20%;
     color: #aa;
     font-size: 24px;
     font-style: italic;
