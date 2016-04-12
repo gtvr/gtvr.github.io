@@ -166,7 +166,7 @@ tabs {
     display: block;
 }
 
-@media (min-width: 25%) {
+@media (min-width: 20%) {
     .tabs i {
         padding: 5px;
         margin-right: 10px;
