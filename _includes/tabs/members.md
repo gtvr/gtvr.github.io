@@ -1,6 +1,6 @@
 ### Materials
 
-[Our Constitution.](https://github.com/gtvr/materials/spring-2016/raw/master/docs/constitution.pdf)
+[Our Constitution.](media/constitution.pdf)
 
 All other club materials are located [here](https://github.com/gtvr/materials).
 
