@@ -19,7 +19,7 @@ Virtual Reality (VR) is interacting with technology in a way that feels _immersi
 ## Our Inventory
 
 Item | # | Notes
--|:-:|-
+:-|:-:|-:
 HTC Vive | 1 |
 Leap Motion | 1 |
 Google Cardboard | 8 | Graciously donated by Google

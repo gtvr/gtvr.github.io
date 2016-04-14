@@ -11,7 +11,7 @@
 ## Officers
 
 Officer | Position
--|:-:|-
+:-|-:
 Muhammad Rizvi | President
 | Vice President
 | Secretary
