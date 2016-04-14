@@ -9,12 +9,12 @@ layout: default
   
   <input type="radio" name="tabs" id="tab2">
   <label for="tab2">
-    <span>Showcase</span>
+    <span>Show</span>
   </label>
 
   <input type="radio" name="tabs" id="tab3">
   <label for="tab3">
-    <span>Meetings</span>
+    <span>Meet</span>
   </label>
 
   <input type="radio" name="tabs" id="tab4">
@@ -33,12 +33,12 @@ layout: default
   </div>
   
   <div id="tab-content2" class="tab-content">
-    {% capture md %}{% include tabs/showcase.md %}{% endcapture %}
+    {% capture md %}{% include tabs/show.md %}{% endcapture %}
     {{ md | markdownify }}
   </div>
 
   <div id="tab-content3" class="tab-content">
-    {% capture md %}{% include tabs/members.md %}{% endcapture %}
+    {% capture md %}{% include tabs/meet.md %}{% endcapture %}
     {{ md | markdownify }}
   </div>
 
