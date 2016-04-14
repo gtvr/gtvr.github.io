@@ -1,18 +1,14 @@
-### Materials
+## [Our Constitution](media/constitution.pdf)
 
-[Our Constitution.](media/constitution.pdf)
+## Meeting Times
 
-All other club materials are located [here](https://github.com/gtvr/materials).
+### Tuesdays from 7:30pm in the Glenn-Towers Connector.
 
-### Meeting Times
+## Mailing List
 
-Tuesdays from 7:30pm in the Glenn-Towers Connector.
+### [Join It.](https://lists.gatech.edu/sympa/info/vr)
 
-### Mailing List
-
-[Join It.](https://lists.gatech.edu/sympa/info/vr)
-
-### Who Are We?
+## Officers
 
 Officer | Position
 -|:-:|-

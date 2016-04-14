@@ -33,7 +33,7 @@ ul {
 
 .wrapper {
     margin: auto;
-    max-width: 66%;
+    max-width: 900px;
     padding: 10px;
     overflow: auto;
 }
@@ -60,11 +60,19 @@ header .col-right {
     text-decoration: none;
 }
 
+.page-content {
+    text-align: center;
+}
+
+.tab-content {
+    width: 100%;
+}
+
 footer {
     text-align: center;
 }
 
-@media screen and (max-width: 1323px) {
+@media screen and (max-width: 910px) {
     .wrapper {
 	max-width: 100%;
     }
