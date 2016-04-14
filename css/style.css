@@ -64,6 +64,11 @@ header .col-right {
     text-align: center;
 }
 
+.page-contents table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .tab-content {
     width: 100%;
 }
