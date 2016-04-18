@@ -8,7 +8,7 @@ Share equipment, resources, and knowledge among members
 
 Create and facilitate club and personal projects for funding and for fun
 
-Conduct programming and design tutorials,demos and publicity around campus,
+Conduct programming and design tutorials, demos and publicity around campus,
 and talks from guests and members of the Georgia Tech community
 
 ## What is VR?
