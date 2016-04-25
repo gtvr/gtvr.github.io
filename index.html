@@ -28,6 +28,10 @@ layout: default
   </label>
   
   <div id="tab-content1" class="tab-content">
+    <img class="slide" src="images/slideshow/1.jpg">
+    <a class="w3-btn-floating" onclick="plusDivs(-1)">&#10094;</a>
+    <a class="w3-btn-floating" onclick="plusDivs(+1)">&#10095<;/a>
+    
     {% capture md %}{% include tabs/about.md %}{% endcapture %}
     {{ md | markdownify }}
   </div>
