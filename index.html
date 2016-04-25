@@ -28,6 +28,13 @@ layout: default
   </label>
   
   <div id="tab-content1" class="tab-content">
+    <div id="slider">
+      <figure>
+	<img src="1.jpg" alt>
+	<img src="2.jpg" alt>
+      </figure>
+    </div>
+    
     {% capture md %}{% include tabs/about.md %}{% endcapture %}
     {{ md | markdownify }}
   </div>
