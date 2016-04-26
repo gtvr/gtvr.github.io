@@ -183,24 +183,28 @@ tabs {
 }
 
 @keyframes slidy {
-0% { left: 0%; }
-40% { left: 0%; }
-50% { left: -100%; }
-90% { left: -100%; }
-100% { left: 0% }
+    0% { left: 0%; }
+    30% { left: 0%; }
+    36% { left: -100%; }
+    63% { left: -100%; }
+    69% { left: -200%; }
+    96% { left: -200%; }
+    99% { left: -300%; }
+    100% { left: -300%; }
+    100% { left: 0% }
 }
 
 body { margin: 0; } 
 div#slider { overflow: hidden; }
-div#slider figure img { width: 50%; float: left; }
+div#slider figure img { width: 25%; float: left; }
 div#slider figure { 
-  position: relative;
-  width: 200%;
-  margin: 0;
-  left: 0;
-  text-align: left;
-  font-size: 0;
-  animation: 20s slidy infinite; 
+    position: relative;
+    width: 400%;
+    margin: 0;
+    left: 0;
+    text-align: left;
+    font-size: 0;
+    animation: 20s slidy infinite; 
 }
 
 @media (min-width: 20%) {
