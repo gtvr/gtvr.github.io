@@ -4,16 +4,18 @@
 
 ### Tuesdays from 7:30pm in the Glenn-Towers Connector.
 
-## Mailing List
+## Logistics
 
-### [Join It.](https://lists.gatech.edu/sympa/info/vr)
+### [Join the Mailing list](https://lists.gatech.edu/sympa/info/vr)
 
-## Officers
+## Make accounts for [GitHub](https://www.github.com/gtvr) and [GitLab](https://gitlab.com/groups/GTVR)
+
+### Officers
 
 Officer | Position
 :-|-:
-Muhammad Rizvi | President
-| Vice President
-| Secretary
-| Treasurer
-| Public Relations
+Muhammad Rizvi | President (*the* Obama)
+Christopher Payne | Vice President (Biden)
+Hari Tiwari | Secretary (Hillary Clinton)
+Alexander Oshin | Treasurer (Trump)
+Derrick Bailey | Public Relations (Ted Cruz)

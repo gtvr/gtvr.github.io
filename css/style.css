@@ -117,6 +117,13 @@ header .col-right h3 {
     margin-bottom: 10px;
 }
 
+.sliderbox {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
 /* Tabbing Scheme */
 tabs {
     max-width: 100%;
