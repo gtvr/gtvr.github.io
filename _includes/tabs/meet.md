@@ -14,8 +14,8 @@
 
 Officer | Position
 :-|-:
-Muhammad Rizvi | President (*the* Obama)
+Muhammad Rizvi | President (Obama)
 Christopher Payne | Vice President (Biden)
-Hari Tiwari | Secretary (Hillary Clinton)
+Hari Tiwari | Secretary (Clinton)
 Alexander Oshin | Treasurer (Trump)
 Derrick Bailey | Public Relations (Ted Cruz)
