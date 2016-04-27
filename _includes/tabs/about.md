@@ -1,6 +1,6 @@
 # _Welcome!_
 
-We are an unofficial student organization at Georgia Tech dedicated to the exploring and proliferating virtual reality technology.
+We are a student organization at Georgia Tech dedicated to the exploring and proliferating virtual reality technology.
 
 ## What We Do
 
