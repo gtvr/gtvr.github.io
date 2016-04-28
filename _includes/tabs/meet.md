@@ -20,3 +20,11 @@ Hari Tiwari | Secretary (Clinton)
 Alexander Oshin | Treasurer (Trump)
 Derrick Bailey | Public Relations (Cruz)
 Tony Chen | Creative (Bush)
+
+## Inventory
+
+Item | # | Notes
+:-|:-:|-:
+HTC Vive | 1 |
+Leap Motion | 1 |
+Google Cardboard | 8 | Donated by Google
