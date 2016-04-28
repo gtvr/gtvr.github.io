@@ -106,17 +106,21 @@ footer {
     }
 }
 
+@-webkit-keyframes colorSpin {
+    from { -webkit-filter: hue-rotate(0deg); }
+    to   { -webkit-filter: hue-rotate(360deg); }
+}
+
 @keyframes colorSpin {
-    from { -webkit-filter: hue-rotate(0deg);
-	   filter: hue-rotate(0deg); }
-    to   { -webkit-filter: hue-rotate(360deg);
-	   filter: hue-rotate(360deg); }
+    from { filter: hue-rotate(0deg); }
+    to   { filter: hue-rotate(360deg); }
 }
 
 header .col-left img {
     max-width: 360px;
     width: 100%;
     height: auto;
+    -webkit-animation: 15s colorSpin infinite;
     animation: 15s colorSpin infinite;
 }
 
