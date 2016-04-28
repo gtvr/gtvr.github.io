@@ -4,7 +4,7 @@
 
 ## What We Do
 
-*
+* [this bullet not shown]
    * Share equipment, resources, and knowledge among members
    * Create and facilitate club and personal projects for funding and for fun
    * Conduct programming and design tutorials, demos and publicity around campus,
