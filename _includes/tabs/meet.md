@@ -8,7 +8,7 @@
 
 ### [Join the Mailing list](https://lists.gatech.edu/sympa/info/vr)
 
-## Make accounts for [GitHub](https://www.github.com/gtvr) and [GitLab](https://gitlab.com/groups/GTVR)
+### Make accounts for [GitHub](https://www.github.com/gtvr) and [GitLab](https://gitlab.com/groups/GTVR)
 
 ### Officers
 
