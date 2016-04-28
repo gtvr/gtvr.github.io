@@ -10,7 +10,7 @@
 
 ### Make accounts for [GitHub](https://www.github.com/gtvr) and [GitLab](https://gitlab.com/groups/GTVR)
 
-### Officers
+## Officers
 
 Officer | Position
 :-|-:
