@@ -106,9 +106,8 @@ footer {
     }
 }
 
-header .col-left svg {
+header .col-left img {
     max-width: 360px;
-    width: 100%;
     height: auto;
 }
 
