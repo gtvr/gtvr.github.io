@@ -4,7 +4,7 @@ var scan = 0, maxScan = 0;
 
 function setup(){
     createCanvas(windowWidth, windowHeight);
-    fill(240, 240, 240);
+    fill(240, 240, 255);
     noStroke();
 }
 
