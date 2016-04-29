@@ -10,7 +10,7 @@ canvas {
     top: 0;
     left: 0;
     z-index: -1;
-    animation: 15s colorSpin infinite;
+    animation: 20s colorSpin infinite;
 }
 body {
     font-family: 'Droid Sans', sans-serif;
@@ -124,7 +124,7 @@ header .col-left img {
     max-width: 360px;
     width: 100%;
     height: auto;
-    animation: 15s colorSpin infinite;
+    animation: 20s colorSpin infinite;
 }
 
 header .col-right h3 {
