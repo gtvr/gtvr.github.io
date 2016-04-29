@@ -1,8 +1,8 @@
-var radius = 150, maxSize = 20, minSize = 1;
+var radius = 150, maxSize = 20, minSize = 4;
 
 function setup(){
     createCanvas(windowWidth, windowHeight);
-    fill(245, 245, 255);
+    fill(240, 240, 255);
     noStroke();
 }
 
