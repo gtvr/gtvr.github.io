@@ -1,4 +1,4 @@
-var radius = 100, maxSize = 32, minSize = 4;
+var radius = 150, maxSize = 20, minSize = 4;
 
 function setup(){
     createCanvas(windowWidth, windowHeight);
