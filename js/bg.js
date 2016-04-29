@@ -1,10 +1,10 @@
-var radius = 700, maxSize = 20, minSize = 1, slope = 0.35, rate = 12;
+var radius = 700, maxSize = 20, minSize = 1, slope = 0.35, rate = 15;
 
 var scan = 0, maxScan = 0;
 
 function setup(){
     createCanvas(windowWidth, windowHeight);
-    fill(240, 235, 255);
+    fill(240, 240, 240);
     noStroke();
 }
 
