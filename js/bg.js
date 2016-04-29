@@ -29,7 +29,7 @@ function draw() {
     generate();
     for ( var i = 0; i < columns;i++) {
 	for ( var j = 0; j < rows;j++) {
-	    if ((board[i][j] == 1)) fill(160);
+	    if ((board[i][j] == 1)) fill(0);
 	    else fill(255); 
 	    stroke(0);
 	    rect(i*w, j*w, w-1, w-1);
