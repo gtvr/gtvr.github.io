@@ -1,33 +1,24 @@
+var radius = 200, maxSize = 40, minSize = 1;
+
 function setup(){
-  createCanvas(windowWidth, windowHeight, WEBGL);
-}
-
-function draw(){
-  background(250);
-  rotateY(frameCount * 0.01);
-
-  for(var j = 0; j < 5; j++){
-    push();
-    for(var i = 0; i < 80; i++){
-      translate(sin(frameCount * 0.001 + j) * 100, sin(frameCount * 0.001 + j) * 100, i * 0.1);
-      rotateZ(frameCount * 0.002);
-      push();
-      sphere(8, 6, 4); 
-      pop();
-    }
-    pop();
-  }
-}
-
-/*
-function setup() {
-    createCanvas(windowWidth. windowHeight);
+    createCanvas(windowWidth, windowHeight);
+    fill(225, 220, 255);
+    noStroke();
 }
 
 function draw() {
+    clear();
     
+    for(var i = 0; i <= width; i += maxSize) {
+	for(var j = 0; j <= height; j += maxSize) {
+	    var d = (radius - dist(mouseX, mouseY, i, j)) / radius;
+	    if (d >= 0) {
+		var size = ((maxSize - minSize) * d) + minSize;
+		rect(i, j, size, size, 0, 0, maxSize, 0);
+	    }
+	}
+    }
 }
-*/
 
 function windowResized() {
     resizeCanvas(windowWidth, windowHeight);
