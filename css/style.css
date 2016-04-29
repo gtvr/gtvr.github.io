@@ -38,11 +38,6 @@ ul {
     overflow: auto;
 }
 
-.icon svg {
-    width: 32px;
-    height: auto;
-}
-
 header .col-left {
     float: left;
 }
@@ -58,6 +53,11 @@ header .col-right {
 
 .social a {
     text-decoration: none;
+}
+
+.social img {
+    width: 32px;
+    height: auto;
 }
 
 .page-content {
@@ -84,12 +84,12 @@ footer {
     header h1 {
         margin-bottom: -10px;
     }
-    .icon svg {
-	width: 16px;
-	height: auto;
-    }
     .social {
 	margin-top: 20px;
+    }
+    .social img {
+	width: 24px;
+	height: auto;
     }
     header .col-left {
         width: 100%;
