@@ -1,4 +1,4 @@
-var radius = 700, maxSize = 64, minSize = 16, slope = 0.35, rate = 15;
+var radius = 350, maxSize = 64, minSize = 16, slope = 0.35, rate = 15;
 
 var scan = 0, maxScan = 0;
 
