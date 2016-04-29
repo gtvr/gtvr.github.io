@@ -1,3 +1,4 @@
+/*
 var radius = 150, maxSize = 20, minSize = 4;
 
 function setup(){
@@ -24,9 +25,10 @@ function draw() {
 function windowResized() {
     resizeCanvas(windowWidth, windowHeight);
 }
+*/
 
-/* Wave ver - too slow
-var radius = 350, maxSize = 64, minSize = 16, slope = 0.35, rate = 20;
+///* Wave ver - too slow
+var radius = 350, maxSize = 20, minSize = 16, slope = 0.35, rate = 15;
 
 var scan = 0, maxScan = 0;
 
@@ -61,4 +63,4 @@ function draw() {
 function windowResized() {
     resizeCanvas(windowWidth, windowHeight);
 }
-*/
+//*/
