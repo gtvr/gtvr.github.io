@@ -6,4 +6,4 @@ Lead: Chris Payne, Team: GTVR Membership
 
 Dodge incoming balls.  Turn and move your head and try to keep up!
 
-### (PC - Vive)[media/downloads/SteelBallDodge.zip] | (Android - Cardboard)[media/downloads/SteelBallDodge.apk]
+### [PC - Vive](media/downloads/SteelBallDodge.zip) | [Android - Cardboard](media/downloads/SteelBallDodge.apk)
