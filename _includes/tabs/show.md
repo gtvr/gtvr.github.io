@@ -2,7 +2,7 @@
 
 Spring + Summer 2016
 
-Lead: Chris Payne, Team: GTVR Membership
+Lead: Chris Payne, Team: VR@GT Membership
 
 Dodge incoming balls.  Turn and move your head and try to keep up!
 
