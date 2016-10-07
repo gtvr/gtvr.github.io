@@ -14,7 +14,7 @@ var splashes = new Array(
     "All of this is Real",
     "The net is vast and infinite",
     "Infinite Diversity in Infinite Combinations",
-    "2 Guys and a Headset",
+    "2 Guys and a Headset"
 );
 
 document.getElementById('splash').innerHTML = splashes[Math.floor(Math.random() * splashes.length)];;
